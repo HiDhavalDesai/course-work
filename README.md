@@ -1,4 +1,4 @@
-Here you will find all the courses I have completed.<br>
+Here you will find all the courses I have completed and the certificates I have received. <br>
 
 <table border="1">
     <tr>
