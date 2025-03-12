@@ -19,14 +19,12 @@ Here you will find all the courses I have completed and there certificates <br>
     <th><a href="#">Certificate</a></th>
     <th>-</th>
     <th><a href="#">Notes</a></th>
-    <th>-</th>
     </tr>
     <tr>
     <th>Google Cybersecurity</th>
     <th><a href="#">Certificate</a></th>
     <th>-</th>
     <th><a href="#">Notes</a></th>
-    <th>-</th>
     </tr>
 
 </table>
