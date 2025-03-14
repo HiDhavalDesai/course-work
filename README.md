@@ -18,7 +18,7 @@ Here you will find all the courses I have completed and there certificates <br>
     <th>-</th>
     </tr>
      <tr>
-    <th>IBM Product Manager: </th>
+    <th>IBM Product Manager: Foundations & Stakeholder Collaboration</th>
     <th><a href="#">Certificate</a></th>
     <th>-</th>
     </tr>
